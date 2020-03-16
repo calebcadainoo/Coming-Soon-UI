@@ -1,2 +1,2 @@
 # Coming-Soon-UI-
-coming soon ui with gradient (no images)
+Coming soon ui with gradient (no images)
